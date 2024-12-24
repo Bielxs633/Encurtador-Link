@@ -12,8 +12,8 @@ Este projeto é um **Encurtador de Links**. O encurtador permite que o usuário 
 ---
 
 ## Funcionalidades
-- Permite ao usuário inserir um link longo e gerar uma versão curta.
-- Exibe o link encurtado e permite que o usuário copie facilmente para a área de transferência.
+1. Permite ao usuário inserir um link longo e gerar uma versão curta.
+2. Exibe o link encurtado e permite que o usuário copie facilmente para a área de transferência.
 
 ---
 
